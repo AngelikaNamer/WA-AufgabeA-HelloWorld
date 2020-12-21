@@ -22,7 +22,7 @@ public class Main {
   - Open the Project in the IntelliJ IDE
   - Compile and transfer the program 
   
-  ***or run Java code from a command line*** 
+  ***run Java code from a command line*** 
   
   ```
   java HelloWorld
